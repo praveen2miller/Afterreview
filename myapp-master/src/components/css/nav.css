@@ -1,0 +1,49 @@
+.topnav {
+  background-color: #87cdcf;
+  overflow: hidden;
+}
+.kural {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #2e91f5;
+  border-radius: 5px;
+  box-shadow: 3px 3px #a3aaaf;
+}
+.topnav li {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav li:hover {
+  background-color: #89cff0;
+  color: black;
+}
+
+/* .topnav li.active {
+  background-color: #318ce7;
+  color: white;
+} */
+li {
+  list-style-type: none;
+}
+.logout{
+  position: absolute;
+  right: 10%;
+  top: 2.5%;
+  background-color: darkseagreen;
+color: black;
+border-radius: 11px;
+padding: 6px 20px;
+border-style: solid;
+border: 4px;
+margin-top: 5px;
+}
+
+
+
